@@ -1,4 +1,4 @@
-# Company Fredd - MCP Server
+# MCP - ABOGADOS -DB
 
 Servidor MCP (Model Context Protocol) para gestionar empleados de un bufete de abogados. Permite a modelos de lenguaje (como Claude) consultar y agregar empleados a una base de datos PostgreSQL mediante herramientas MCP.
 
